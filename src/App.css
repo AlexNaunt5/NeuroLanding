@@ -19,9 +19,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
-
-.bajar{
   min-height: 100vh;
 }
 
@@ -32,8 +29,8 @@
 
 .Navbar{
   position: relative;
-  justify-content: start;
-  position: top;
+  text-align: center;
+  position: bottom;
   left:50%;
   transform: translateX(-50%);
   width: 100%;
